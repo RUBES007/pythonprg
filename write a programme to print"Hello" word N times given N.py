@@ -1,4 +1,4 @@
-x=2
+num=5
 a="Hello"
-for i in range (x):
+for i in range (num):
     print(a)
