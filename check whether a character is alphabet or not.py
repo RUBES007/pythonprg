@@ -1,5 +1,5 @@
 char=input("enter the input:")
 if((char>='a' and char<='z') or (char>='A' and char<='Z')):
-	print(char, "AlphaBet")
+	print(char, "Alphabet")
 else:
 	print(char, "Not")
