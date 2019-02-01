@@ -1,3 +1,3 @@
-num=2
-for i in range (num):
+s=2
+for i in range (s):
     print("hello",' ')
