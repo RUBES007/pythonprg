@@ -1,5 +1,5 @@
-n=5
-if (n%2)==0:
+s=5
+if (s%2)==0:
    print("even")
 else:
    print("odd")
