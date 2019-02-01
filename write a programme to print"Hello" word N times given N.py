@@ -1,4 +1,3 @@
-num=5
-a="Hello"
+num=2
 for i in range (num):
-    print(a)
+    print("hello",' ')
