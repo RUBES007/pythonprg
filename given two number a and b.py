@@ -1,4 +1,4 @@
-ef hunt_20():
+def hunt_20():
 	u=int(input())
 	v=int(input())
 	r=0
